@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 217",
+  "image": "https://fumo.remilia.org/fumo_nft/217.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/217.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Gold's Gym Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Cobain"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Favelas"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

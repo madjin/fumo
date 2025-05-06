@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 449",
+  "image": "https://fumo.remilia.org/fumo_nft/449.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/449.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Don't Tread On Me Durag"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Frosted Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kennecott Mill"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

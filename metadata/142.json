@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 142",
+  "image": "https://fumo.remilia.org/fumo_nft/142.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/142.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Pink Camo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Sailor Lolita"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Alien Shades"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teary Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "10k Buddhas Monastery"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 36",
+  "image": "https://fumo.remilia.org/fumo_nft/36.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/36.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Minecraft Polo Official"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Cherries"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Raf Highs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Akihabara"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

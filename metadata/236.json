@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 236",
+  "image": "https://fumo.remilia.org/fumo_nft/236.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/236.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Blazer"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Frosted Blue"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cascades Dam"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 110",
+  "image": "https://fumo.remilia.org/fumo_nft/110.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/110.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "FBI Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Crescent"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yosemite"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

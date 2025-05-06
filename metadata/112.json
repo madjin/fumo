@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 112",
+  "image": "https://fumo.remilia.org/fumo_nft/112.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/112.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Gothic Milady"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Sweater & Tie"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Star Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Raf Highs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Pink"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mar-a-Lago"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

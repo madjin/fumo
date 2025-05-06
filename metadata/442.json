@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 442",
+  "image": "https://fumo.remilia.org/fumo_nft/442.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/442.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "American Denim"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Alien Shades"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mosque Abu Dhabi"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

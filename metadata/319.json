@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 319",
+  "image": "https://fumo.remilia.org/fumo_nft/319.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/319.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Cat Ears"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Colosseum"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

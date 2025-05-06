@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 293",
+  "image": "https://fumo.remilia.org/fumo_nft/293.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/293.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Shirt & Tie"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Crescent"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brazil Dunes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

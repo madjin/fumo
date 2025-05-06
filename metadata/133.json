@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 133",
+  "image": "https://fumo.remilia.org/fumo_nft/133.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/133.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Gothic Milady"
+    },
+    {
+      "trait_type": "Top",
+      "value": "I'm Cute I'm Punk Rock"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Temple Cross"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Akihabara"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

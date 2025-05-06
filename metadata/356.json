@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 356",
+  "image": "https://fumo.remilia.org/fumo_nft/356.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/356.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Cross Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Lover's Tee"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Hawaii Beach"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

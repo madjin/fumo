@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 370",
+  "image": "https://fumo.remilia.org/fumo_nft/370.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/370.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "VW Saturn"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Lover's Tee"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mosque Abu Dhabi"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

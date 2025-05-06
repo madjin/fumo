@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 471",
+  "image": "https://fumo.remilia.org/fumo_nft/471.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/471.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Blue Ribbon"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Temple Cross"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brazil Dunes"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

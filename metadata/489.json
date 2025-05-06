@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 489",
+  "image": "https://fumo.remilia.org/fumo_nft/489.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/489.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Fortnite Balenciaga Hoodie"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teary Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Penguins"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 436",
+  "image": "https://fumo.remilia.org/fumo_nft/436.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/436.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Cat Ears"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Gold's Gym Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Temple Cross"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shibuya"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

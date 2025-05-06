@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 379",
+  "image": "https://fumo.remilia.org/fumo_nft/379.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/379.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Workin' Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Paris Hilton"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Eden Cornwall"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

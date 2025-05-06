@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 302",
+  "image": "https://fumo.remilia.org/fumo_nft/302.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/302.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "VW Saturn"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Bear Sweater"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Crescent"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teary Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Frosted Purple"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bolivia Salt Flats"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

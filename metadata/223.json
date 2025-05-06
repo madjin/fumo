@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 223",
+  "image": "https://fumo.remilia.org/fumo_nft/223.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/223.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Don't Tread On Me Durag"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Gold's Gym Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Akihabara"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

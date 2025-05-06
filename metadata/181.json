@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 181",
+  "image": "https://fumo.remilia.org/fumo_nft/181.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/181.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "VW Saturn"
+    },
+    {
+      "trait_type": "Top",
+      "value": "69 Pyrex"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Purple"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shibuya"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

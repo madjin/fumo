@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 164",
+  "image": "https://fumo.remilia.org/fumo_nft/164.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/164.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Mickey Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Ribbon"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mosque Abu Dhabi"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

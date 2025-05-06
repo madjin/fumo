@@ -1,0 +1,36 @@
+{
+  "name": "Milady Fumo Baby 12",
+  "image": "https://fumo.remilia.org/fumo_nft/12.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/12.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Blue Ribbon"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brazil Dunes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

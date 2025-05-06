@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 131",
+  "image": "https://fumo.remilia.org/fumo_nft/131.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/131.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Nothing Can Stop This"
+    },
+    {
+      "trait_type": "Top",
+      "value": "I'm Cute I'm Punk Rock"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teary Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Frosted Purple"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mar-a-Lago"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

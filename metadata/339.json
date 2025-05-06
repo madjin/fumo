@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 339",
+  "image": "https://fumo.remilia.org/fumo_nft/339.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/339.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bass Pro"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Raf Highs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ethiopian Cave"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

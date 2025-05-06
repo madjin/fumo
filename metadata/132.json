@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 132",
+  "image": "https://fumo.remilia.org/fumo_nft/132.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/132.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Bear Sweater"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Gucci"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ethiopian Cave"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

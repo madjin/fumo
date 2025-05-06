@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 100",
+  "image": "https://fumo.remilia.org/fumo_nft/100.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/100.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Gold's Gym Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Temple Cross"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Saguaro"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

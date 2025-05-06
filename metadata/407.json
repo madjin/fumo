@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 407",
+  "image": "https://fumo.remilia.org/fumo_nft/407.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/407.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Rhinestone Skull Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Nevada"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Cherries"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "South of Border"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

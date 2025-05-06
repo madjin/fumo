@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 352",
+  "image": "https://fumo.remilia.org/fumo_nft/352.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/352.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Varsity Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Nevada"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Cherries"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Star Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shibuya"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

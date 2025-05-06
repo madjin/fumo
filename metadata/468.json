@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 468",
+  "image": "https://fumo.remilia.org/fumo_nft/468.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/468.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Gothic Milady"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Gucci"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Pink"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Favelas"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 284",
+  "image": "https://fumo.remilia.org/fumo_nft/284.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/284.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Rhinestone Skull Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Sailor Lolita"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Crescent"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daytona Speedway"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

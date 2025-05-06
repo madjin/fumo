@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 439",
+  "image": "https://fumo.remilia.org/fumo_nft/439.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/439.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "I'm Cute I'm Punk Rock"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Temple Cross"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Star Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kennecott Mill"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

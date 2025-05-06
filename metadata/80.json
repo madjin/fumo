@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 80",
+  "image": "https://fumo.remilia.org/fumo_nft/80.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/80.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Yayo Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Lover's Tee"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Frosted Blue"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kennecott Mill"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

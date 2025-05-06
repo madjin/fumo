@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 374",
+  "image": "https://fumo.remilia.org/fumo_nft/374.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/374.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bear Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Ribbon"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Gucci"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "10k Buddhas Monastery"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

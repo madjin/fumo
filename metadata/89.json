@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 89",
+  "image": "https://fumo.remilia.org/fumo_nft/89.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/89.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Varsity Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "College Sweater"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Raf Highs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yosemite"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

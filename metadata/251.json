@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 251",
+  "image": "https://fumo.remilia.org/fumo_nft/251.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/251.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Varsity Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Sailor Lolita"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Penguins"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

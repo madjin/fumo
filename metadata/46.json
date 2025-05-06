@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 46",
+  "image": "https://fumo.remilia.org/fumo_nft/46.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/46.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Pink Camo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "I'm Cute I'm Punk Rock"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Pink"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Penguins"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

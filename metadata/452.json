@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 452",
+  "image": "https://fumo.remilia.org/fumo_nft/452.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/452.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Orange Berret"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Ribbon"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cascades Dam"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

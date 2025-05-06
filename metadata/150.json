@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 150",
+  "image": "https://fumo.remilia.org/fumo_nft/150.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/150.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Paris Hilton"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White House"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

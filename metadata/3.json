@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 3",
+  "image": "https://fumo.remilia.org/fumo_nft/3.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/3.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Yayo Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Blazer"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ethiopian Cave"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

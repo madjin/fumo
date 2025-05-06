@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 25",
+  "image": "https://fumo.remilia.org/fumo_nft/25.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/25.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Cow Fur Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Ribbon"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Crescent"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Favelas"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 369",
+  "image": "https://fumo.remilia.org/fumo_nft/369.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/369.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bass Pro"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Bear Sweater"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aurora Borealis"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

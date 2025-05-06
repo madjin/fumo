@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 340",
+  "image": "https://fumo.remilia.org/fumo_nft/340.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/340.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Don't Tread On Me Durag"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "North Korea"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

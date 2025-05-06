@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 224",
+  "image": "https://fumo.remilia.org/fumo_nft/224.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/224.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Cat Ears"
+    },
+    {
+      "trait_type": "Top",
+      "value": "69 Pyrex"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mosque Abu Dhabi"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

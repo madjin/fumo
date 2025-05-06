@@ -1,0 +1,36 @@
+{
+  "name": "Milady Fumo Baby 336",
+  "image": "https://fumo.remilia.org/fumo_nft/336.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/336.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bass Pro Pyramid"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

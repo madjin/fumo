@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 308",
+  "image": "https://fumo.remilia.org/fumo_nft/308.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/308.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "69 Pyrex"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Blue"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Eden Cornwall"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

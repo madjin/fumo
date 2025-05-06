@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 166",
+  "image": "https://fumo.remilia.org/fumo_nft/166.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/166.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Cat Ears"
+    },
+    {
+      "trait_type": "Top",
+      "value": "69 Pyrex"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Smithsonian"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

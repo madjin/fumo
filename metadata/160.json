@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 160",
+  "image": "https://fumo.remilia.org/fumo_nft/160.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/160.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "White Cowboy Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kennecott Mill"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

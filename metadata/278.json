@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 278",
+  "image": "https://fumo.remilia.org/fumo_nft/278.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/278.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bucket"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Fortnite Balenciaga Hoodie"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Cherries"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Pink"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kennecott Mill"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

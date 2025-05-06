@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 124",
+  "image": "https://fumo.remilia.org/fumo_nft/124.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/124.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Cow Fur Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Ribbon"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Frosted Purple"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Penguins"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

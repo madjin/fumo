@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 108",
+  "image": "https://fumo.remilia.org/fumo_nft/108.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/108.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Abusive Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Temple Cross"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cascades Dam"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 242",
+  "image": "https://fumo.remilia.org/fumo_nft/242.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/242.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Shirt & Tie"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Purple"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Volcano"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

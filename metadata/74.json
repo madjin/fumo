@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 74",
+  "image": "https://fumo.remilia.org/fumo_nft/74.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/74.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "FBI Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Saguaro"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

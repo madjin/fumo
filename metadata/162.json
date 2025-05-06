@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 162",
+  "image": "https://fumo.remilia.org/fumo_nft/162.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/162.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Workin' Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Beat The Allegations"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cascades Dam"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

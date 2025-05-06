@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 84",
+  "image": "https://fumo.remilia.org/fumo_nft/84.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/84.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "VW Saturn"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Sweater & Tie"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Raf Highs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Versailles"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

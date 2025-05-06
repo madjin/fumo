@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 192",
+  "image": "https://fumo.remilia.org/fumo_nft/192.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/192.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Nevada"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Crescent"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Smithsonian"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

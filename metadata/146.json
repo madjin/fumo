@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 146",
+  "image": "https://fumo.remilia.org/fumo_nft/146.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/146.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Remilia Corp"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Bear Sweater"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Temple Cross"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mar-a-Lago"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

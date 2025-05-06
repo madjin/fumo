@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 428",
+  "image": "https://fumo.remilia.org/fumo_nft/428.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/428.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "American Denim"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Raf Highs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yosemite"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

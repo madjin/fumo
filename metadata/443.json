@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 443",
+  "image": "https://fumo.remilia.org/fumo_nft/443.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/443.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Yayo Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Star Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Colosseum"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 103",
+  "image": "https://fumo.remilia.org/fumo_nft/103.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/103.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Nothing Can Stop This"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Paris Hilton"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mosque Abu Dhabi"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

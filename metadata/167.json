@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 167",
+  "image": "https://fumo.remilia.org/fumo_nft/167.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/167.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "VW Saturn"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Gucci"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Colosseum"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

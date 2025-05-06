@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 216",
+  "image": "https://fumo.remilia.org/fumo_nft/216.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/216.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "FBI Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Paris Hilton"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Milady Pilled"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Emirates Flight"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

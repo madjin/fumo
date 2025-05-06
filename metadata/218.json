@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 218",
+  "image": "https://fumo.remilia.org/fumo_nft/218.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/218.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Lover's Tee"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Frosted Blue"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kanab Arch"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

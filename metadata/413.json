@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 413",
+  "image": "https://fumo.remilia.org/fumo_nft/413.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/413.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "American Denim"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Shirt & Tie"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Eden Cornwall"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

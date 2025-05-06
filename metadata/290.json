@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 290",
+  "image": "https://fumo.remilia.org/fumo_nft/290.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/290.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Nothing Can Stop This"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Colosseum"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

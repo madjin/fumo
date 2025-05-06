@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 425",
+  "image": "https://fumo.remilia.org/fumo_nft/425.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/425.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Nothing Can Stop This"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Blazer"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aurora Borealis"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

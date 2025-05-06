@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 431",
+  "image": "https://fumo.remilia.org/fumo_nft/431.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/431.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Pink Camo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Gold's Gym Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Cherries"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daytona Speedway"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

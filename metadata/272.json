@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 272",
+  "image": "https://fumo.remilia.org/fumo_nft/272.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/272.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Nothing Can Stop This"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Football Shirt"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mar-a-Lago"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

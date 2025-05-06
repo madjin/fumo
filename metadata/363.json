@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 363",
+  "image": "https://fumo.remilia.org/fumo_nft/363.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/363.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Orange Berret"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mosque Abu Dhabi"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

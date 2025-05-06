@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 348",
+  "image": "https://fumo.remilia.org/fumo_nft/348.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/348.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bear Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "69 Pyrex"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Crescent"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Pink"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mar-a-Lago"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

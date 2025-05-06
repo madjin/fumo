@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 333",
+  "image": "https://fumo.remilia.org/fumo_nft/333.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/333.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Nothing Can Stop This"
+    },
+    {
+      "trait_type": "Top",
+      "value": "69 Pyrex"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Raf Highs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kanab Arch"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

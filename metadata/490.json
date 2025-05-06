@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 490",
+  "image": "https://fumo.remilia.org/fumo_nft/490.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/490.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "FBI Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Gucci"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bolivia Salt Flats"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

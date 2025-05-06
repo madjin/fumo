@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 338",
+  "image": "https://fumo.remilia.org/fumo_nft/338.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/338.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Mickey Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Ribbon"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Frosted Purple"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "North Korea"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

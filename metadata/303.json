@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 303",
+  "image": "https://fumo.remilia.org/fumo_nft/303.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/303.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kennecott Mill"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

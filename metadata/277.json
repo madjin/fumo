@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 277",
+  "image": "https://fumo.remilia.org/fumo_nft/277.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/277.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "911 Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Lover's Tee"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Frosted Blue"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yosemite"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

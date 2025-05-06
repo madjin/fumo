@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 486",
+  "image": "https://fumo.remilia.org/fumo_nft/486.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/486.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "VW Saturn"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Hawaii Beach"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

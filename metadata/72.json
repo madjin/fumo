@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 72",
+  "image": "https://fumo.remilia.org/fumo_nft/72.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/72.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Cherries"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Saguaro"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

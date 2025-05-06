@@ -1,0 +1,48 @@
+{
+  "name": "Milady Fumo Baby 350",
+  "image": "https://fumo.remilia.org/fumo_nft/350.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/350.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Workin' Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Bear Sweater"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Milady Pilled"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Pink"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cascades Dam"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

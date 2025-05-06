@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 496",
+  "image": "https://fumo.remilia.org/fumo_nft/496.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/496.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Gold's Gym Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ethiopian Cave"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

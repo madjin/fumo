@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 260",
+  "image": "https://fumo.remilia.org/fumo_nft/260.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/260.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Don't Tread On Me Durag"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Blonde"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brazil Dunes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

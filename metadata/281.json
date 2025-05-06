@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 281",
+  "image": "https://fumo.remilia.org/fumo_nft/281.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/281.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Remilia Corp"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Star Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Pink"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Saguaro"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

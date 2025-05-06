@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 121",
+  "image": "https://fumo.remilia.org/fumo_nft/121.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/121.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Don't Tread On Me Durag"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Lover's Tee"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Crescent"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Girly Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bolivia Salt Flats"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

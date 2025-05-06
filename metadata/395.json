@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 395",
+  "image": "https://fumo.remilia.org/fumo_nft/395.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/395.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bucket"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mouse Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Blue"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Colosseum"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

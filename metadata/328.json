@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 328",
+  "image": "https://fumo.remilia.org/fumo_nft/328.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/328.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Bear Sweater"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Pink"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Eden Cornwall"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

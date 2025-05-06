@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 28",
+  "image": "https://fumo.remilia.org/fumo_nft/28.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/28.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Gothic Milady"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Gold's Gym Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Cherries"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Green"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cascades Dam"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

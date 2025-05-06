@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 325",
+  "image": "https://fumo.remilia.org/fumo_nft/325.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/325.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Football Shirt"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Frosted Purple"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "10k Buddhas Monastery"
+    },
+    {
+      "trait_type": "Bloodied",
+      "value": "Yes"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 38",
+  "image": "https://fumo.remilia.org/fumo_nft/38.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/38.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Abusive Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "College Sweater"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Cherries"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Raf Highs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kennecott Mill"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

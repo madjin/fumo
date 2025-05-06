@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 371",
+  "image": "https://fumo.remilia.org/fumo_nft/371.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/371.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Football Shirt"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Temple Cross"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shibuya"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

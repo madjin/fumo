@@ -1,0 +1,36 @@
+{
+  "name": "Milady Fumo Baby 186",
+  "image": "https://fumo.remilia.org/fumo_nft/186.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/186.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Active Dissident"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Star Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Raf Highs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aquarium Frosted Blue"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mosque Abu Dhabi"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

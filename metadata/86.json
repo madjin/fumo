@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 86",
+  "image": "https://fumo.remilia.org/fumo_nft/86.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/86.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "Gold's Gym Tank"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Milady Pilled"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fumo Frosted Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Penguins"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

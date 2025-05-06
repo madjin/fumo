@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 229",
+  "image": "https://fumo.remilia.org/fumo_nft/229.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/229.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Varsity Cap"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Ribbon"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Missing Mottega"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Blue"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Brown"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Colosseum"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

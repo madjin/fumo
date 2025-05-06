@@ -1,0 +1,36 @@
+{
+  "name": "Milady Fumo Baby 481",
+  "image": "https://fumo.remilia.org/fumo_nft/481.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/481.mp4",
+  "attributes": [
+    {
+      "trait_type": "Top",
+      "value": "I'm Cute I'm Punk Rock"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Pink"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Jeans"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Hawaii Beach"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

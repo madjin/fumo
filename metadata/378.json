@@ -1,0 +1,40 @@
+{
+  "name": "Milady Fumo Baby 378",
+  "image": "https://fumo.remilia.org/fumo_nft/378.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/378.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Don't Tread On Me Durag"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Paris Hilton"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Remilio Lilac"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Frosted Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White House"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}

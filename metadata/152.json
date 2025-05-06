@@ -1,0 +1,44 @@
+{
+  "name": "Milady Fumo Baby 152",
+  "image": "https://fumo.remilia.org/fumo_nft/152.png",
+  "animation_url": "https://fumo.remilia.org/fumo_nft/152.mp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Abusive Hat"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Beat The Allegations"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Gucci"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Milady Brown"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Mary Janes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braid Frosted Green"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Pleated Skirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yosemite"
+    }
+  ],
+  "external_url": "https://fumo.remilia.org"
+}
