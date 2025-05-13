@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Milady Fumo Baby Trait Explorer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0.5rem;
+        }
+        .full-gallery {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        .full-gallery-content {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 0.5rem;
+            width: 90%;
+            height: 90%;
+            overflow-y: auto;
+            position: relative;
+        }
+        .close-button {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+        }
+        .image-container {
+            position: relative;
+            width: 100%;
+            padding-top: 100%; /* 1:1 aspect ratio */
+        }
+        .image-container img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            cursor: pointer;
+        }
+        .stats {
+            background-color: #f3f4f6;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        .status-button {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            cursor: pointer;
+        }
+        .status-todo { background-color: #9ca3af; color: white; }
+        .status-in-progress { background-color: #fbbf24; color: black; }
+        .status-done { background-color: #34d399; color: white; }
+        .status-select {
+            display: none;
+            margin-left: 0.5rem;
+        }
+        #loading-indicator {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(255, 255, 255, 0.8);
+            z-index: 2000;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <div id="loading-indicator">
+        <div class="text-center">
+            <div class="inline-block animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
+            <p class="mt-2 text-gray-800">Loading collection data...</p>
+        </div>
+    </div>
+
+    <div class="flex">
+        <!-- Sidebar -->
+        <div id="sidebar" class="w-64 h-screen bg-gray-800 text-white p-4 overflow-y-auto">
+            <h2 class="text-2xl font-bold mb-4">Milady Fumo Baby</h2>
+            <div class="mb-4">
+                <input type="text" id="search-input" placeholder="Search traits..." class="w-full px-2 py-1 bg-gray-700 text-white rounded">
+            </div>
+            <ul id="trait-type-list" class="space-y-2"></ul>
+        </div>
+
+        <!-- Main content -->
+        <div class="flex-1 p-8 overflow-y-auto">
+            <h1 id="main-header" class="text-4xl font-bold mb-4">Select a Trait Type</h1>
+            <div id="stats" class="stats hidden"></div>
+            <div id="trait-container" class="grid-container"></div>
+        </div>
+    </div>
+
+    <!-- Full gallery modal -->
+    <div id="full-gallery" class="full-gallery hidden">
+        <div class="full-gallery-content">
+            <h2 id="full-gallery-title" class="text-2xl font-bold mb-4"></h2>
+            <button id="close-gallery" class="close-button px-4 py-2 bg-red-500 text-white rounded">Close</button>
+            <div id="full-gallery-grid" class="grid grid-cols-4 gap-4"></div>
+        </div>
+    </div>
+
+    <script>
+        let traitData = {};
+        let nftData = [];
+        let statusData = JSON.parse(localStorage.getItem('traitStatus')) || {};
+        const searchInput = document.getElementById('search-input');
+
+        // Define the trait categories based on your unique-traits.json
+        const traitCategories = [
+            "Top", "Background", "Bloodied", "Bottom", "Bottoms", 
+            "Decoration", "Eyes", "Hair", "Hat", "Hats", 
+            "Race", "Shoes", "Tops"
+        ];
+        
+        // Track trait counts based on your unique-traits.json
+        const traitCounts = {};
+        
+        // Load the trait data from unique-traits.json
+        async function loadTraitData() {
+            try {
+                const response = await fetch('unique-traits.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    
+                    // Initialize the trait counts from the data
+                    for (const category in data) {
+                        if (data[category] && data[category].values) {
+                            traitCounts[category] = data[category].values.length;
+                        }
+                    }
+                    
+                    console.log('Loaded trait counts:', traitCounts);
+                }
+            } catch (error) {
+                console.error('Error loading unique-traits.json:', error);
+            }
+        }
+
+        async function loadNFTData() {
+            await loadTraitData();
+            
+            try {
+                document.getElementById('loading-indicator').textContent = 'Loading metadata...';
+                
+                // Load metadata for all NFTs (up to 500 for this example)
+                const totalNFTs = 500; 
+                
+                for (let i = 1; i <= totalNFTs; i++) {
+                    try {
+                        const response = await fetch(`metadata/${i}.json`);
+                        if (response.ok) {
+                            const data = await response.json();
+                            nftData.push(data);
+                        }
+                    } catch (err) {
+                        console.warn(`Could not load metadata/${i}.json`);
+                    }
+                }
+
+                // Process the loaded NFT data to organize by trait type and value
+                processNFTData();
+                
+                // Add trait types to sidebar
+                populateSidebar();
+                
+                // Hide loading indicator
+                document.getElementById('loading-indicator').style.display = 'none';
+            } catch (error) {
+                console.error('Error loading NFT data:', error);
+                alert('Error loading NFT data. See console for details.');
+                document.getElementById('loading-indicator').style.display = 'none';
+            }
+        }
+
+        function processNFTData() {
+            // Process all loaded NFTs to organize by trait type
+            nftData.forEach(nft => {
+                const nftNumber = nft.name.split(' ').pop(); // Extract number from name
+                
+                nft.attributes.forEach(attr => {
+                    const traitType = attr.trait_type;
+                    const traitValue = attr.value;
+                    
+                    if (!traitData[traitType]) {
+                        traitData[traitType] = {};
+                    }
+                    
+                    if (!traitData[traitType][traitValue]) {
+                        traitData[traitType][traitValue] = {
+                            count: 0,
+                            images: []
+                        };
+                    }
+                    
+                    traitData[traitType][traitValue].count++;
+                    traitData[traitType][traitValue].images.push(nftNumber);
+                });
+            });
+            
+            console.log('Processed trait data:', traitData);
+        }
+
+        function populateSidebar() {
+            const list = document.getElementById('trait-type-list');
+            
+            // Sort trait types alphabetically
+            const sortedTraitTypes = Object.keys(traitData).sort();
+            
+            sortedTraitTypes.forEach(traitType => {
+                const li = document.createElement('li');
+                const count = traitData[traitType] ? Object.keys(traitData[traitType]).length : 0;
+                const totalCount = traitCounts[traitType] || count;
+                li.innerHTML = `<a href="#" class="hover:text-gray-300">${traitType} <span class="text-xs text-gray-400">(${count}/${totalCount})</span></a>`;
+                li.querySelector('a').addEventListener('click', (e) => {
+                    e.preventDefault();
+                    displayTraits(traitType);
+                });
+                list.appendChild(li);
+            });
+        }
+
+        function displayTraits(category) {
+            const container = document.getElementById('trait-container');
+            const header = document.getElementById('main-header');
+            const statsContainer = document.getElementById('stats');
+            header.textContent = category;
+            container.innerHTML = '';
+            
+            if (!traitData[category]) {
+                container.innerHTML = '<p class="text-gray-500">No data available for this trait type.</p>';
+                statsContainer.classList.add('hidden');
+                return;
+            }
+
+            const sortedTraits = Object.entries(traitData[category])
+                .sort((a, b) => b[1].count - a[1].count);
+
+            // Display stats
+            const totalTraits = sortedTraits.length;
+            const totalItems = sortedTraits.reduce((sum, [_, info]) => sum + info.count, 0);
+            const statusCounts = { 'To-do': 0, 'In-Progress': 0, 'Done': 0 };
+            sortedTraits.forEach(([trait, _]) => {
+                const status = getTraitStatus(category, trait);
+                statusCounts[status]++;
+            });
+
+            statsContainer.innerHTML = `
+                <p><strong>Total Traits:</strong> ${totalTraits} (of ${traitCounts[category] || '?'})</p>
+                <p><strong>Total Items:</strong> ${totalItems}</p>
+                <p><strong>Status:</strong> To-do: ${statusCounts['To-do']}, In-Progress: ${statusCounts['In-Progress']}, Done: ${statusCounts['Done']}</p>
+            `;
+            statsContainer.classList.remove('hidden');
+
+            sortedTraits.forEach(([trait, info]) => {
+                const traitElement = document.createElement('div');
+                traitElement.className = 'bg-white p-4 rounded shadow';
+                const status = getTraitStatus(category, trait);
+                
+                // Get sample images (up to 4)
+                const sampleImages = info.images.slice(0, 4);
+                
+                traitElement.innerHTML = `
+                    <div class="flex justify-between items-center mb-2">
+                        <h3 class="font-bold">${trait}</h3>
+                        <div class="flex items-center">
+                            <span class="status-button status-${status.toLowerCase().replace(' ', '-')}">${status}</span>
+                            <select class="status-select ml-2">
+                                <option value="To-do">To-do</option>
+                                <option value="In-Progress">In-Progress</option>
+                                <option value="Done">Done</option>
+                            </select>
+                        </div>
+                    </div>
+                    <p>Count: ${info.count}</p>
+                    <div class="image-grid mt-2">
+                        ${sampleImages.map(img => `
+                            <div class="image-container">
+                                <img src="media/thumbnails/${img}.jpg" alt="${trait}" class="rounded">
+                            </div>
+                        `).join('')}
+                    </div>
+                    <button class="view-all mt-2 px-2 py-1 bg-blue-500 text-white rounded">View All (${info.images.length})</button>
+                `;
+                
+                traitElement.querySelector('.view-all').addEventListener('click', () => showFullGallery(category, trait));
+                
+                const statusButton = traitElement.querySelector('.status-button');
+                const statusSelect = traitElement.querySelector('.status-select');
+                statusButton.addEventListener('click', () => {
+                    statusButton.style.display = 'none';
+                    statusSelect.style.display = 'inline-block';
+                });
+                statusSelect.value = status;
+                statusSelect.addEventListener('change', (e) => {
+                    const newStatus = e.target.value;
+                    setTraitStatus(category, trait, newStatus);
+                    statusButton.textContent = newStatus;
+                    statusButton.className = `status-button status-${newStatus.toLowerCase().replace(' ', '-')}`;
+                    statusButton.style.display = 'inline-block';
+                    statusSelect.style.display = 'none';
+                    updateStats(category);
+                });
+
+                container.appendChild(traitElement);
+            });
+        }
+
+        function getTraitStatus(category, trait) {
+            return statusData[category]?.[trait] || 'To-do';
+        }
+
+        function setTraitStatus(category, trait, status) {
+            if (!statusData[category]) statusData[category] = {};
+            statusData[category][trait] = status;
+            localStorage.setItem('traitStatus', JSON.stringify(statusData));
+        }
+
+        function updateStats(category) {
+            const statsContainer = document.getElementById('stats');
+            if (!traitData[category]) return;
+            
+            const statusCounts = { 'To-do': 0, 'In-Progress': 0, 'Done': 0 };
+            Object.keys(traitData[category]).forEach(trait => {
+                const status = getTraitStatus(category, trait);
+                statusCounts[status]++;
+            });
+            const statusP = statsContainer.querySelector('p:last-child');
+            statusP.innerHTML = `<strong>Status:</strong> To-do: ${statusCounts['To-do']}, In-Progress: ${statusCounts['In-Progress']}, Done: ${statusCounts['Done']}`;
+        }
+
+        function showFullGallery(category, trait) {
+            const fullGallery = document.getElementById('full-gallery');
+            const fullGalleryTitle = document.getElementById('full-gallery-title');
+            const fullGalleryGrid = document.getElementById('full-gallery-grid');
+
+            fullGalleryTitle.textContent = `${category}: ${trait}`;
+            fullGalleryGrid.innerHTML = '';
+
+            const imageList = traitData[category][trait].images;
+            imageList.forEach(img => {
+                const imgContainer = document.createElement('div');
+                imgContainer.className = 'image-container';
+                const imgElement = document.createElement('img');
+                imgElement.src = `media/${img}.jpg`;
+                imgElement.alt = `${category}: ${trait} - NFT #${img}`;
+                imgElement.className = 'rounded';
+                imgElement.addEventListener('click', () => {
+                    window.open(`media/${img}.jpg`, '_blank');
+                });
+                imgContainer.appendChild(imgElement);
+                fullGalleryGrid.appendChild(imgContainer);
+            });
+
+            fullGallery.classList.remove('hidden');
+        }
+
+        function closeFullGallery() {
+            document.getElementById('full-gallery').classList.add('hidden');
+        }
+
+        // Search functionality
+        searchInput.addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const traitItems = document.querySelectorAll('#trait-type-list li');
+            
+            traitItems.forEach(item => {
+                const text = item.textContent.toLowerCase();
+                if (text.includes(searchTerm)) {
+                    item.style.display = '';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+
+        // Event listeners
+        document.getElementById('close-gallery').addEventListener('click', closeFullGallery);
+
+        document.getElementById('full-gallery').addEventListener('click', (e) => {
+            if (e.target === document.getElementById('full-gallery')) {
+                closeFullGallery();
+            }
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeFullGallery();
+            }
+        });
+
+        // Prevent text selection outside of the full gallery content
+        document.getElementById('full-gallery').addEventListener('mousedown', (e) => {
+            if (e.target === document.getElementById('full-gallery')) {
+                e.preventDefault();
+            }
+        });
+
+        // Start loading data
+        loadNFTData();
+    </script>
+</body>
+</html>
