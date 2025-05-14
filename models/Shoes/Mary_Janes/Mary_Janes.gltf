@@ -1,0 +1,422 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v4.1.62",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Mary_Janes"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "MARY JANE",
+      "normalTexture": {
+        "index": 0,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "SOCK.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7167887687683105,
+          0.7167887687683105,
+          0.7167887687683105,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "doubleSided": true,
+      "name": "Metalic",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.1090909093618393
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "body_base.085",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TEXCOORD_0": 12,
+            "TEXCOORD_1": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/png",
+      "name": "MARY JANE SHOES_Normal",
+      "uri": "MARY JANE SHOES_Normal.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "MARY JANE SHOES_BaseColor",
+      "uri": "MARY JANE SHOES_BaseColor.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "MARY JANE SHOES_Metallic-MARY JANE SHOES_Roughness",
+      "uri": "MARY JANE SHOES_Metallic-MARY JANE SHOES_Roughness.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4668,
+      "max": [
+        0.29381927847862244,
+        0.13982966542243958,
+        0.6038132905960083
+      ],
+      "min": [
+        -0.29381927847862244,
+        -0.20867885649204254,
+        0.32377558946609497
+      ],
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4668,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4668,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4668,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 23124,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 2072,
+      "max": [
+        0.2665705978870392,
+        0.0631031021475792,
+        0.5113800764083862
+      ],
+      "min": [
+        -0.2665705978870392,
+        -0.14604821801185608,
+        0.2996918857097626
+      ],
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 2072,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 11688,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 1540,
+      "max": [
+        0.2758757472038269,
+        0.04944392293691635,
+        0.45461905002593994
+      ],
+      "min": [
+        -0.2790767252445221,
+        -0.02988484501838684,
+        0.3834836781024933
+      ],
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 1540,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 1540,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 1540,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5123,
+      "count": 7980,
+      "type": "SCALAR",
+      "byteOffset": 0
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 56016,
+      "byteOffset": 0,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 56016,
+      "byteOffset": 56016,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37344,
+      "byteOffset": 112032,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37344,
+      "byteOffset": 149376,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 46248,
+      "byteOffset": 186720,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 232968,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24864,
+      "byteOffset": 257832,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16576,
+      "byteOffset": 282696,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16576,
+      "byteOffset": 299272,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23376,
+      "byteOffset": 315848,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18480,
+      "byteOffset": 339224,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18480,
+      "byteOffset": 357704,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12320,
+      "byteOffset": 376184,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12320,
+      "byteOffset": 388504,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15960,
+      "byteOffset": 400824,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "buffers": [
+    {
+      "name": "Mary_Janes",
+      "byteLength": 416784,
+      "uri": "Mary_Janes.bin"
+    }
+  ]
+}

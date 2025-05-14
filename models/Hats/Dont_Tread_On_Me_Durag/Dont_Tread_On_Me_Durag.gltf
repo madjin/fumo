@@ -1,0 +1,455 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v4.1.62",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Dont_Tread_On_Me_Durag"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "TIRITA",
+      "normalTexture": {
+        "index": 0,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "doubleSided": true,
+      "name": "DURAG",
+      "normalTexture": {
+        "index": 3,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4,
+          "texCoord": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 5,
+          "texCoord": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "doubleSided": true,
+      "name": "INSIDE",
+      "normalTexture": {
+        "index": 6,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7,
+          "texCoord": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 8,
+          "texCoord": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "hair.015",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/png",
+      "name": "TIRITA_Normal",
+      "uri": "TIRITA_Normal.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "TIRITA_BaseColor",
+      "uri": "TIRITA_BaseColor.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "TIRITA_Metallic-TIRITA_Roughness",
+      "uri": "TIRITA_Metallic-TIRITA_Roughness.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "DURAG_Normal",
+      "uri": "DURAG_Normal.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "DURAG_BaseColor",
+      "uri": "DURAG_BaseColor.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "DURAG_Metallic-DURAG_Roughness",
+      "uri": "DURAG_Metallic-DURAG_Roughness.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "INSIDE_Normal",
+      "uri": "INSIDE_Normal.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "INSIDE_BaseColor",
+      "uri": "INSIDE_BaseColor.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "INSIDE_Metallic-INSIDE_Roughness",
+      "uri": "INSIDE_Metallic-INSIDE_Roughness.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 160,
+      "max": [
+        0.2186652570962906,
+        1.0353988409042358,
+        -0.45362570881843567
+      ],
+      "min": [
+        -0.2268485426902771,
+        0.7144868969917297,
+        -0.5494412779808044
+      ],
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 160,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 160,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 360,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1551,
+      "max": [
+        0.5207210779190063,
+        1.5095990896224976,
+        0.37260591983795166
+      ],
+      "min": [
+        -0.5099926590919495,
+        0.44848936796188354,
+        -0.5327085852622986
+      ],
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 1551,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 1551,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5123,
+      "count": 7704,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 204,
+      "max": [
+        0.24392195045948029,
+        0.9814350605010986,
+        -0.4373050332069397
+      ],
+      "min": [
+        -0.24390791356563568,
+        0.44848936796188354,
+        -0.5303175449371338
+      ],
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 204,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 204,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 888,
+      "type": "SCALAR",
+      "byteOffset": 0
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1920,
+      "byteOffset": 0,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1920,
+      "byteOffset": 1920,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1280,
+      "byteOffset": 3840,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 720,
+      "byteOffset": 5120,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18612,
+      "byteOffset": 5840,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18612,
+      "byteOffset": 24456,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12408,
+      "byteOffset": 43072,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15408,
+      "byteOffset": 55480,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2448,
+      "byteOffset": 70888,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2448,
+      "byteOffset": 73336,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1632,
+      "byteOffset": 75784,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1776,
+      "byteOffset": 77416,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "buffers": [
+    {
+      "name": "Dont_Tread_On_Me_Durag",
+      "byteLength": 79192,
+      "uri": "Dont_Tread_On_Me_Durag.bin"
+    }
+  ]
+}
